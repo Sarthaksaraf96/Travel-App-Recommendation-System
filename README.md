@@ -1,4 +1,4 @@
-# travel recommendation model:
+# Travel Recommendation Model:
 ## **Problem Statement:** Build a travel recommendation model to provide personalized package recommendations based on user preferences and historical data.
 
 ## Output:
