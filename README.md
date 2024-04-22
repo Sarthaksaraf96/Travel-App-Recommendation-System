@@ -1,5 +1,5 @@
-# Travel Recomendation System:
-###**Problem Statement:** Build a travel recommendation model to provide personalized package recommendations based on user preferences and historical data.
+# Hotel Recomendation System:
+## **Problem Statement:** Build a travel recommendation model to provide personalized package recommendations based on user preferences and historical data.
 
 ## output:
 ![d3f7c0dd-3b7a-4880-9916-7f29d1747803](https://github.com/Sarthaksaraf96/Travel-App-Recommendation-System/assets/132260196/a1765f72-8ecb-4a61-ae1b-23bf0e353cd8)
