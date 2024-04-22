@@ -3,7 +3,7 @@
 
 ## output:
 
-![Untitled video - Made with Clipchamp](https://github.com/Sarthaksaraf96/Travel-App-Recommendation-System/assets/132260196/1384f906-d5d2-41e2-a890-1ee759dedc40)
+![51241428-e071-4aab-b4e4-10ea0656a952](https://github.com/Sarthaksaraf96/Travel-App-Recommendation-System/assets/132260196/5bbe0f55-cd6a-4d99-ae27-cc6b9a8fdacb)
 
 
 ## Outcomes:
@@ -13,10 +13,6 @@
 4. **Enhanced User Experience:** By providing personalized recommendations and real-time information, the system can enhance the overall user experience, making travel planning more convenient and enjoyable for users.
 5. **Feedback and Reviews:** The system can collect real-time feedback and reviews from users to continuously improve its recommendations and enhance customer satisfaction.
 
-
-## Features
-1. **Personalized Recommendations:** Utilizes machine learning algorithms to provide personalized travel app recommendations based on user preferences.
-2. **Scalability**: Built with scalability in mind to accommodate a large user base and growing travel data.
 
 ## Technologies Used
 - **Python:** Programming language used for development.
