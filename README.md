@@ -5,6 +5,11 @@
 ![d3f7c0dd-3b7a-4880-9916-7f29d1747803](https://github.com/Sarthaksaraf96/Travel-App-Recommendation-System/assets/132260196/a1765f72-8ecb-4a61-ae1b-23bf0e353cd8)
 
 
+## Approach Used: 
+- **Content-Based Filtering:** recommends travel options based on the attributes of items and a user's past behavior or preferences.
+
+![image](https://github.com/Sarthaksaraf96/Travel-App-Recommendation-System/assets/132260196/5671ca83-bc45-4505-bd64-2f358646e592)
+
 
 
 ## Outcomes:
