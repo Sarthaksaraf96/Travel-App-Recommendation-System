@@ -2,8 +2,9 @@
 ###**Problem Statement:** Build a travel recommendation model to provide personalized package recommendations based on user preferences and historical data.
 
 ## output:
+![d3f7c0dd-3b7a-4880-9916-7f29d1747803](https://github.com/Sarthaksaraf96/Travel-App-Recommendation-System/assets/132260196/a1765f72-8ecb-4a61-ae1b-23bf0e353cd8)
 
-![51241428-e071-4aab-b4e4-10ea0656a952](https://github.com/Sarthaksaraf96/Travel-App-Recommendation-System/assets/132260196/5bbe0f55-cd6a-4d99-ae27-cc6b9a8fdacb)
+
 
 
 ## Outcomes:
